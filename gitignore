@@ -1,0 +1,8 @@
+# O dataset é lido pelo link e não deve subir para o GitHub (passa de 100 MB)
+creditcard.csv
+*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
